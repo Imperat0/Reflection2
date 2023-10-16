@@ -1,6 +1,7 @@
+@Tabela(value = "Minha tabela")
 public class Reflection {
 
-    @Tabela("getCodigo")
+
     private Long codigo;
     private String descricao;
 
